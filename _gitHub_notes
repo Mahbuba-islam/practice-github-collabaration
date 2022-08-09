@@ -1,0 +1,11 @@
+1.git push
+2.create new branch
+2.git pull
+3.git merge
+ 
+
+  # create new branch:
+git checkout -b branchName
+
+# set upstream for new branch
+git push --set-upstream origin branch1
